@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 UrbanSound8K
 *.p
+ESC50
+*.h5
